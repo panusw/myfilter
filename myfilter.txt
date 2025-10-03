@@ -17,7 +17,6 @@
 ##[src*="heng" i]
 ##[src*="lotto" i]
 ##[src*="casino" i]
-##[src*="bet" i]
 ##[src*="spin" i]
 ##[src*="slot" i]
 ##[src*="ufa" i]
@@ -45,7 +44,6 @@
 ##a[href*="heng" i]
 ##a[href*="lotto" i]
 ##a[href*="casino" i]
-##a[href*="bet" i]
 ##a[href*="spin" i]
 ##a[href*="slot" i]
 ##a[href*="ufa" i]
@@ -83,7 +81,6 @@
 ##[alt*="heng" i]
 ##[alt*="lotto" i]
 ##[alt*="casino" i]
-##[alt*="bet" i]
 ##[alt*="spin" i]
 ##[alt*="slot" i]
 ##[alt*="ufa" i]
@@ -146,4 +143,5 @@ ped-manga.com##.dessert-frame center
 #@#img[src*="data:image" i]
 
 #@#img[data-src*="manga" i]
+
 
