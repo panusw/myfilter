@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: My Custom Filter (ABP Version)
 ! Description: กรองโฆษณาที่ฉันไม่อยากเห็น
-! Version: 2025.10.04.0002
+! Version: 2025.10.05.0001
 ! Expires: 7 days
 ! Homepage: http://panusw.ddns.net/
 
@@ -64,6 +64,7 @@
 ##a[href*="mk81122.com" i]
 ##a[href*="gth.bet" i]
 ##a[href*="zed.bet" i]
+##a[href*="nexobet44" i]
 
 ##[alt*="บอล"]
 ##[alt*="สล็อต"]
@@ -149,6 +150,7 @@ ped-manga.com##.dessert-frame center
 #@#img[src*="data:image" i]
 
 #@#img[data-src*="manga" i]
+
 
 
 
