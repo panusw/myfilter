@@ -122,6 +122,7 @@
 ##[alt*="bj88" i]
 ##[alt*="8xbe253" i]
 ##[alt*="918kiss" i]
+##[alt*="pigbet" i]
 
 ##[id*="ads" i]
 ##[id*="banner" i]
@@ -150,6 +151,7 @@ ped-manga.com##.dessert-frame center
 #@#img[src*="data:image" i]
 
 #@#img[data-src*="manga" i]
+
 
 
 
