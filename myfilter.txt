@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: My Custom Filter (ABP Version)
 ! Description: กรองโฆษณาที่ฉันไม่อยากเห็น
-! Version: 2026.01.12.0001
+! Version: 2026.01.26.0001
 ! Expires: 7 days
 ! Homepage: http://panusw.ddns.net/
 
@@ -68,8 +68,6 @@
 ##a[href*="7893234.com" i]
 ##a[href*="878588.com" i]
 ##a[href*="mk81122.com" i]
-##a[href*="gth.bet" i]
-##a[href*="zed.bet" i]
 ##a[href*="nexobet44" i]
 ##a[href*="soccerweblink.com" i]
 ##a[href*="8xbet" i]
@@ -89,26 +87,24 @@
 ##a[href*="jun880.cc" i]
 ##a[href*="brazil99" i]
 ##a[href*="debet.com" i]
-##a[href*="vee.win" i]
 ##a[href*="thongclub.com" i]
 ##a[href*="indexq168" i]jun88111.com
 ##a[href*="jun88111.com" i]
-##a[href*="regem.bet" i]
 ##a[href*="reffpa.com" i]
 ##a[href*="panama888" i]
 ##a[href*="ssgame66" i]
 ##a[href*="juad88" i]
 ##a[href*="kingdom66" i]
 ##a[href*="bigwin999.com" i]
-##a[href*="amb999.win" i]
 ##a[href*="funky99.biz" i]
-##a[href*="88club.bet" i]
 ##a[href*="texas24.cc" i]
 ##a[href*="europeancuphistory.com" i]
 ##a[href*="sinbet.co.com" i]
-##a[href*="regem.bet" i]
 ##a[href*="ruayy.com" i]
 ##a[href*="jun8889.com" i]
+##a[href*="pokbet.in" i]
+##a[href*=".bet" i]
+##a[href*=".win" i]
 
 ##[alt*="บอล"]
 ##[alt*="สล็อต"]
@@ -196,6 +192,7 @@ ped-manga.com##.dessert-frame center
 #@#img[src*="data:image" i]
 
 #@#img[data-src*="manga" i]
+
 
 
 
