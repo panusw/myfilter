@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: My Custom Filter (ABP Version)
 ! Description: กรองโฆษณาที่ฉันไม่อยากเห็น
-! Version: 2026.02.03.0001
+! Version: 2026.02.05.0001
 ! Expires: 7 days
 ! Homepage: http://panusw.ddns.net/
 
@@ -103,7 +103,7 @@
 ##a[href*="ruayy.com" i]
 ##a[href*="jun8889.com" i]
 ##a[href*="pokbet.in" i]
-##a[href*="puntaek789.info" i]
+##a[href*="puntaek" i]
 ##a[href*=".bet" i]
 ##a[href*=".win" i]
 
@@ -193,6 +193,7 @@ ped-manga.com##.dessert-frame center
 #@#img[src*="data:image" i]
 
 #@#img[data-src*="manga" i]
+
 
 
 
