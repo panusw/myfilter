@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: My Custom Filter (ABP Version)
 ! Description: กรองโฆษณาที่ฉันไม่อยากเห็น
-! Version: 2026.03.26.0001
+! Version: 2026.04.21.0001
 ! Expires: 7 days
 ! Homepage: http://panusw.ddns.net/
 
@@ -119,6 +119,7 @@
 ##a[href*="game66" i]
 ##a[href*="huc66" i]
 ##a[href*="arapahoecafe" i]
+##a[href*="gladstone64" i]
 
 ##[alt*="บอล"]
 ##[alt*="สล็อต"]
